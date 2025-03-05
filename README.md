@@ -1,4 +1,6 @@
 # CC-SAFE
+![logo](https://github.com/user-attachments/assets/5654fd0f-9196-447d-8f1d-b77337aa7d11)
+
 Hochsichere Verschlüsselungstechnologie für maximale Datensicherheit
 
 Schutz Ihrer sensiblen Daten auf höchstem Niveau
